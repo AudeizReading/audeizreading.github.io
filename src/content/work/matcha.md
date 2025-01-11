@@ -1,5 +1,5 @@
 ---
-title: Matcha (Work In Progress)
+title: Matcha
 publishDate: 2024-12-01 00:00:00
 img: /assets/users-8553229_1280.jpg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
